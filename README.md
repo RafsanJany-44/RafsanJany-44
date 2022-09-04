@@ -5,12 +5,6 @@
 	<a href="https://www.linkedin.com/in/rafsan-jany-819817200/" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-  <a href="https://www.naimur29.com/" target="_blank">
-		<img src="https://img.shields.io/badge/portfolio(unfinished)-1AA260?style=for-the-badge&logoColor=white" />
-	</a>
-	<a href="https://stackoverflow.com/users/18246106/naimur-rahman" target="_blank">
-		<img src="https://img.shields.io/badge/Stackoverflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-	</a>
 </p>
 
 ---
