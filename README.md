@@ -1,5 +1,5 @@
 
-# Hey, I'm Rafsan! <img src="https://i.ibb.co/TqQSq2q/wave.gif" width="40px" height="40px">
+# Lets Reveal something New! <img src="https://i.ibb.co/TqQSq2q/wave.gif" width="40px" height="40px">
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/rafsan-jany-819817200/" target="_blank">
@@ -9,7 +9,7 @@
 
 ---
 
-![Rafsan Jany's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rafsanjany-44&hide_border=true&theme=redical)
+![Jany's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rafsanjany-44&hide_border=true&theme=redical)
 
 ---
 
