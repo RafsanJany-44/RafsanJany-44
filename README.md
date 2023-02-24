@@ -1,5 +1,6 @@
 
-# Lets Reuse The Resources.....<img src="https://i.ibb.co/TqQSq2q/wave.gif" width="40px" height="40px">
+# Artificial Intelligence exists,
+Artificial Imagination doesn't......<img src="https://i.ibb.co/TqQSq2q/wave.gif" width="40px" height="40px">
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/rafsan-jany-819817200/" target="_blank">
