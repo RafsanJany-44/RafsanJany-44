@@ -1,5 +1,5 @@
 
-# Artificial Intelligence exists,Artificial Imagination doesn't
+# Artificial Intelligence exists, Artificial Imagination doesn't
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/rafsan-jany-819817200/" target="_blank">
