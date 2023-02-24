@@ -7,12 +7,6 @@
 	</a>
 </p>
 
----
-
-![Jany's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rafsanjany-44&hide_border=true&theme=redical)
-
----
-[![trophy](https://github-profile-trophy.vercel.app/?usernamerafsanjany-44)](https://github.com/rafsanjany-44/github-profile-trophy)
 
 ## 📈 Stats
 
