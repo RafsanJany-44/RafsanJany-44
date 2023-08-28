@@ -1,5 +1,6 @@
 
 # Artificial Intelligence exists, Artificial Imagination doesn't
+That makes you a Human and this a Machine
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/rafsan-jany-819817200/" target="_blank">
